@@ -1,9 +1,9 @@
-
-#EXTINF:-1 ,Lana TV HD
+#EXTM3U
+#EXTINF:0 ,Lana TV HD
 http://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v&checkedby:iptvcat.com
-#EXTINF:-1 ,Syria
+#EXTINF:0 ,Syria
 http://95.170.215.109/hls/m3u8/SYRIA-Backup.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Syria Drama
+#EXTINF:0 ,Syria Drama
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Syrian News Channel
 http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8?checkedby:iptvcat.com

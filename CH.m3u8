@@ -13,6 +13,8 @@ http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Syrian News Channel
 http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,MBC 1 HD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,MBC 1 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:-1 ,MBC 1 SD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8

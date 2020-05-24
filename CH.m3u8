@@ -148,31 +148,12 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 tvg-id="Al Hurra Iraq ARB" tvg-name="Al Hurra Iraq ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" tvg-country="IQ" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Hurra Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Iraqiya TV ARB" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" tvg-country="IQ" tvg-url="" ,Al Iraqiya
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" tvg-country="LB" tvg-url="" ,Al Jadeed
-http://livecdnh3.tvanywhere.ae/hls/jadeed/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" tvg-country="LB" tvg-url="" ,Al Jadeed
-http://livecdnh3.tvanywhere.ae/hls/jadeed/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" tvg-country="LB" tvg-url="" ,Al Jadeed
-http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" tvg-country="LB" tvg-url="" ,Al Jadeed
-http://livecdnh3.tvanywhere.ae/hls/jadeed/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" tvg-country="LB" tvg-url="" ,Al Jadeed
-http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" tvg-country="LB" tvg-url="" ,Al Jadeed HD
-http://livecdnh3.tvanywhere.ae/hls/jadeed/01.m3u8
+
 #EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="Al Kahera Wal Nass 1 ARB" tvg-name="Al Kahera Wal Nass 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8vSNskY.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Kahera Wal Nas
-http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/MWeuUTA.png" tvg-country="SY" tvg-url="" ,Al Khabar
-http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qeWaLeX.jpg" tvg-country="KW" tvg-url="" ,Al Maaref TV
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vqz9oc6.jpg" tvg-country="UK" tvg-url="" ,Al Magharibia
@@ -193,30 +174,11 @@ https://manar.live/x.smil/tracks-v1a1/mono.m3u8
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" tvg-country="YE" tvg-url="" ,Al Masirah Mubacher
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" tvg-country="LB" tvg-url="" ,Al Mayadeen
-http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XyMDWkz.jpg" tvg-country="IQ" tvg-url="" ,Al Mayadeen TV
-http://95.170.215.109/hls/MAYADEEN-Backup-M.m3u8
-#EXTINF:-1 tvg-id="Al Nahar Drama ARB" tvg-name="Al Nahar Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rrPDwV0.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Nahar Drama
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/03.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Al Nahar Drama ARB" tvg-name="Al Nahar Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rrPDwV0.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Nahar Drama
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/04.m3u8
-#EXTINF:-1 tvg-id="Al Nahar Drama ARB" tvg-name="Al Nahar Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rrPDwV0.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Nahar Drama
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Al Nahar Drama ARB" tvg-name="Al Nahar Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rrPDwV0.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Nahar Drama
-http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd_drama/03.m3u8
-#EXTINF:-1 tvg-id="Al Nahar TV ARB" tvg-name="Al Nahar TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B0ah9kI.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Nahar TV
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd/03.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Al Nahar TV ARB" tvg-name="Al Nahar TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B0ah9kI.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Nahar TV
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd/04.m3u8
-#EXTINF:-1 tvg-id="Al Nahar TV ARB" tvg-name="Al Nahar TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B0ah9kI.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Nahar TV
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Al Nahar TV ARB" tvg-name="Al Nahar TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B0ah9kI.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Nahar TV
-http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" tvg-country="SA" tvg-url="" ,Al Quran Al Kareem (Mecca)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" tvg-country="SA" tvg-url="" ,Al Quran Al Kareem (Mecca)
-http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" tvg-country="SA" tvg-url="" ,Al Quran Al Kareem (Mecca)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://alrafidain.org/style/assets/imgs/logo.png" tvg-country="IQ" tvg-url="" ,Al Rafidain
@@ -229,14 +191,12 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mVwHGbc.png" tvg-country="QA" tvg-url="" ,Al Rayyan Al Qadeem
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Resalah TV ARB" tvg-name="Al Resalah TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/maJ9RAL.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Resalah
-http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
+
 #EXTINF:-1 tvg-id="Al Sharqiya ARB" tvg-name="Al Sharqiya ARB" tvg-language="Arabic" tvg-logo="http://alsharqiyatv.info/tv.jpg" tvg-country="IQ" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" ,Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="Alsumaria ARB" tvg-name="Alsumaria ARB" tvg-language="Arabic" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-LW-1-636916940695846700.png" tvg-country="IQ" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Sumaria
-http://95.170.215.109/hls/m3u8/AlSumaria-Backup.m3u8
+
 #EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Sunnah (Medina)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 #EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Sunnah (Medina)

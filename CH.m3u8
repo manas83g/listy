@@ -16,138 +16,24 @@ http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8?checkedby:iptvcat.c
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,MBC sha
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_3.m3u8
-#EXTINF:-1 ,MBC 1 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
-#EXTINF:-1 ,MBC 1 SD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
-#EXTINF:-1 ,MBC 1 SSD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8
-#EXTINF:-1 ,MBC 1 SSD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,MBC 1 SD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
-#EXTINF:-1 ,MBC 1 SD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
-#EXTINF:-1 MBC 1 MBC 1 eKBXOKd.png" ,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
-#EXTINF:-1 MBC 1 MBC 1 eKBXOKd.png" ,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 MBC 2 MBC 2 KXuzL1u.png" ,MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:-1 MBC 2 MBC 2 KXuzL1u.png" ,MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
-#EXTINF:-1 MBC 2 MBC 2 KXuzL1u.png" ,MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1 MBC 2 MBC 2 KXuzL1u.png" ,MBC 2 HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
-#EXTINF:-1 MBCMBC 2 KXuzL1u.png" ,MBC 2 HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
-#EXTINF:-1 MBC 3 MBC 3 FVNVC73.png" ,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 MBC 3 MBC 3 FVNVC73.png" ,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
-#EXTINF:-1 MBC 3 MBC 3 FVNVC73.png" ,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
-#EXTINF:-1 MBC 3 MBC 3 FVNVC73.png" ,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
-#EXTINF:-1 MBC 3 MBC 3 FVNVC73.png" ,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 MBC 3 MBC 3 FVNVC73.png" ,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 MBC 4 MBC 4 pfF61uH.png" ,MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8
-#EXTINF:-1 MBC 4 MBC 4 pfF61uH.png" ,MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
-#EXTINF:-1 MBC 4 MBC 4 pfF61uH.png" ,MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
-#EXTINF:-1 MBC 4 MBC 4 pfF61uH.png" ,MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 MBC 4 MBC 4 pfF61uH.png" ,MBC 4
-http://livecdnh3.tvanywhere.ae:80/hls/mbc4/05.m3u8
-#EXTINF:-1 MBC 4 MBC 4 pfF61uH.png" ,MBC 4
-http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
-#EXTINF:-1 MBC Action MBC Action n3TgfP0.png" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
-#EXTINF:-1 MBC Action MBC Action n3TgfP0.png" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 MBC Action MBC Action n3TgfP0.png" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
-#EXTINF:-1 MBC Action MBC Action n3TgfP0.png" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
-#EXTINF:-1 MBC Action MBC Action n3TgfP0.png" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
-#EXTINF:-1 MBCMBC Action n3TgfP0.png" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8
-#EXTINF:-1 MBC Action MBC Action n3TgfP0.png" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
-#EXTINF:-1 ,MBC 2 SD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
-#EXTINF:-1 ,MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1 ,MBC 3 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
-#EXTINF:-1 ,MBC 3 SD
-http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
-#EXTINF:-1 ,MBC 4 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
-#EXTINF:-1 ,MBC IRAQ
-http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
-#EXTINF:-1 ,MBC MAX HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1 ,MBC DRAMA HD
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
-#EXTINF:-1 ,MBC BOLLYWOOD
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
-#EXTINF:-1 ,MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
-#EXTINF:-1 ,MBC Masr2
-http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+
 #EXTINF:-1,[AR] Misk FM
 http://95.173.184.17:9958
-#EXTINF:-1,Sama SD
-http://svs.itworkscdn.net/samatvlive/sama.smil/playlist.m3u8
-#EXTINF:-1,Sama HD
-http://svs.itworkscdn.net/samatvlive/sama.smil/samatv_720p_chunks.m3u8
-
-#EXTINF:-1,My MAC 
-#50-56-BF-16-14-1D
-
-
-#EXTINF:-1 ,Halab Today TV SD
+#EXTINF:-1 ,Halab Today
 rtmp://streaming.tootvs.com/8010/8010
-
-
-#EXTINF:-1  ,Al Arabiya
-http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
-
 #EXTINF:-1  ,Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1  ,Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
 #EXTINF:-1  ,Al Arabiya Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
-
-
 #EXTINF:-1 ,Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 #EXTINF:-1  ,Abu Dhabi TV
 http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1  ,Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 ,Ajman TV
-http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
-#EXTINF:-1  ,Al Aan TV
-http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
 
-
-#EXTINF:-1 Cinema 1 Cinema 1 lNhSZ9N.png" ,Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/01.m3u8
-#EXTINF:-1 Cinema 1 Cinema 1 lNhSZ9N.png" ,Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-#EXTINF:-1 Cinema 1 Cinema 1 lNhSZ9N.png" ,Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
-#EXTINF:-1 Cinema 1 Cinema 1 lNhSZ9N.png" ,Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
 #EXTINF:-1 Citruss TV Citruss TV 6lTEvrU.jpg" ,Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 #EXTINF:-1 Citruss TV Citruss TV 6lTEvrU.jpg" ,Citruss TV

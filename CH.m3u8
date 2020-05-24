@@ -47,71 +47,14 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 Etisalat Dubai Zaman TV Etisalat Dubai Zaman TV F5U9qpf.png" ,Dubai Zaman
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1 Q1Kjknl.png" ,Eamar Music
-http://82.212.74.3:8000/live/7514.m3u8
+
 #EXTINF:-1 Al Emarat TV Al Emarat TV 5S2ci8p.png" ,Emarat TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1 Imagine Movies Imagine Movies 2tnZJmq.jpg" ,Imagine Movies
-http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8
+
 #EXTINF:-1 Majid Kids TV Majid Kids TV RiJULAe.png" ,Majid TV
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
 
-#EXTINF:-1 MBC Bollywood MBC Bollywood fMjhK06.png" ,MBC Bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 MBC Bollywood MBC Bollywood fMjhK06.png" ,MBC Bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
-#EXTINF:-1 MBC Bollywood MBC Bollywood fMjhK06.png" ,MBC Bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
-#EXTINF:-1 MBC Bollywood MBC Bollywood fMjhK06.png" ,MBC Bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/05.m3u8
-#EXTINF:-1 MBC Bollywood MBC Bollywood fMjhK06.png" ,MBC Bollywood
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/04.m3u8
-#EXTINF:-1 MBC Bollywood MBC Bollywood fMjhK06.png" ,MBC Bollywood
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
-#EXTINF:-1 MBC Bollywood MBC Bollywood F5ER0we.png" ,MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
-#EXTINF:-1 MBC Drama MBC Drama F5ER0we.png" ,MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
-#EXTINF:-1 MBC Drama MBC Drama F5ER0we.png" ,MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
-#EXTINF:-1 MBC Drama MBC Drama F5ER0we.png" ,MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 MBC Drama MBC Drama F5ER0we.png" ,MBC Drama
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
-#EXTINF:-1 MBC Drama MBC Drama F5ER0we.png" ,MBC Drama
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
-#EXTINF:-1 MBC Masr 1 MBC Masr 1 SrvZduL.jpg" ,MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 MBC Masr 1 MBC Masr 1 SrvZduL.jpg" ,MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
-#EXTINF:-1 MBC Max MBC Max X6EliFm.png" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8
-#EXTINF:-1 MBC Max MBC Max X6EliFm.png" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 MBC Max MBC Max X6EliFm.png" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
-#EXTINF:-1 MBC Max MBC Max X6EliFm.png" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
-#EXTINF:-1 MBC Max MBC Max X6EliFm.png" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1 MBC Max MBC Max X6EliFm.png" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
-#EXTINF:-1 MBC Max MBC Max X6EliFm.png" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
-#EXTINF:-1 "  tvg-logo="" ,MBC VARIETY HD
-http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
-#EXTINF:-1 yZC4C7e.png" ,MBC+ Drama
-http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8
-#EXTINF:-1 Music Now Music Now KABKzdl.png" ,Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/02.m3u8
-#EXTINF:-1 Music Now Music Now KABKzdl.png" ,Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
-#EXTINF:-1 Music Now Music Now KABKzdl.png" ,Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
-#EXTINF:-1 Music Now Music Now KABKzdl.png" ,Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
-#EXTINF:-1 National Geographic Abu Dhabi AR National Geographic Abu Dhabi AR baXbWro.jpg" ,National Geographic Abu Dhabi
-http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
+
 #EXTINF:-1 National Geographic Abu Dhabi AR National Geographic Abu Dhabi AR baXbWro.jpg" ,National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1 Noor Dubai Noor Dubai FP2yHkl.png" ,Noor Dubai
@@ -124,46 +67,20 @@ http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hssli
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 Sama Dubai Sama Dubai bF6I3N1.jpg" ,Sama Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1 ob1GhbC.jpg" ,Sharjah 2
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist_1080p.m3u8
+
 #EXTINF:-1 Sharjah TV Sharjah TV FAp0RtO.png" ,Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 Sharjah TV Sharjah TV FAp0RtO.png" ,Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8
 #EXTINF:-1 Sharqiya from Kalba Sharqiya from Kalba 6Er1lh6.png" ,Sharqiya from Kalba TV
 http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 Space Toon Arabic Space Toon Arabic L42Ouau.png" ,Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
-#EXTINF:-1 Space Toon Arabic Space Toon Arabic L42Ouau.png" ,Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
-#EXTINF:-1 Star Movies Star Movies DQ1RfUa.png" ,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
-#EXTINF:-1 Star Movies Star Movies DQ1RfUa.png" ,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 Star Movies Star Movies DQ1RfUa.png" ,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 Star Movies Star Movies DQ1RfUa.png" ,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 Star World Star World 9c316dr.png" ,Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/02.m3u8
-#EXTINF:-1 Star World Star World 9c316dr.png" ,Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1 Star World Star World 9c316dr.png" ,Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 Star World Star World 9c316dr.png" ,Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 Star World Star World 9c316dr.png" ,Star World
-http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+
 #EXTINF:-1 nsxrqta.jpg" ,Toheed TV
 http://51.158.73.206/hls/stream.m3u8
-#EXTINF:-1 Wanasah Wanasah GmgibYW.jpg" ,Wanasah
-http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
-#EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" tvg-country="MA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,2M Monde
-http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
+
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" tvg-country="MA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" tvg-country="IQ" tvg-url="" ,ABNsat
-http://rtmp1.abnsat.com/hls/arabic.m3u8
+
 #EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 
@@ -180,20 +97,18 @@ http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vn9jvdV.png" tvg-country="SD" tvg-url="" ,Africa TV3
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PmX9Ca3.png" tvg-country="LB" tvg-url="" ,Aghani
-http://livecdnh1.tvanywhere.ae/hls/aghani/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PmX9Ca3.png" tvg-country="LB" tvg-url="" ,Aghani
-https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ciMllay.jpg" tvg-country="EG" tvg-url="" ,Aghapy TV
-http://media4.smc-host.com:1935/aghapy.tv/aghapy.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lckbSZB.png" tvg-country="SA" tvg-url="" ,Ahl-Alquran TV
 https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ajman TV ARB" tvg-name="Ajman TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/l6FT7yx.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Ajman TV
-http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-country="PS" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6WiXPd9.png" tvg-country="AE" tvg-url="" ,Al Aan TV
-http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/alaoulax2.png" tvg-country="MA" tvg-url="" ,Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/laayounex2.png" tvg-country="MA" tvg-url="" ,Al Aoula Laayoune
@@ -204,10 +119,8 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snr
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" tvg-country="PS" tvg-url="" ,Al Aqsa Channel
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Arabiya
-http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
-#EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Jcr3plu.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Arabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+
+
 #EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Al Arabiya
@@ -216,8 +129,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" tvg-country="UK" tvg-url="" ,Al Araby
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/wyy5unY.jpg" tvg-country="IQ" tvg-url="" ,Al Fady
-http://media.smc-host.com:1935/redirect/alfadytv.tv/alfadytv.smil?type=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.alfallujah.tv/sites/all/themes/progressive/progressive_sub/logo.png" tvg-country="IQ" tvg-url="" ,Al Fallujah
 https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hbC1X9B.png" tvg-country="EG" tvg-url="" ,Al Fath TV

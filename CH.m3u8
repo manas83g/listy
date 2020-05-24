@@ -504,130 +504,9 @@ https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PeIYCXs.jpg" tvg-country="PS" tvg-url="" ,Marah FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
-#EXTINF:-1 tvg-id="Mazzika ARB" tvg-name="Mazzika ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uaIndQt.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Mazzika
-http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
-#EXTINF:-1 tvg-id="Mazzika ARB" tvg-name="Mazzika ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uaIndQt.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Mazzika
-http://livecdnh2.tvanywhere.ae/hls/mazzika/04.m3u8
-#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8
-#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
-#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
-#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
-#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="MBC 2 ARB" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:-1 tvg-id="MBC 2 ARB" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
-#EXTINF:-1 tvg-id="MBC 2 ARB" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1 tvg-id="MBC 2 ARB" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 2 HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
-#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 2 HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
-#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
-#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
-#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
-#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8
-#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
-#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
-#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 4
-http://livecdnh3.tvanywhere.ae:80/hls/mbc4/05.m3u8
-#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC 4
-http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
-#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
-#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
-#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
-#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
-#EXTINF:-1 tvg-id="MBC" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8
-#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Action HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
-#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Entertainment",MBC Bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Entertainment",MBC Bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
-#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Entertainment",MBC Bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
-#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Entertainment",MBC Bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/05.m3u8
-#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Entertainment",MBC Bollywood
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/04.m3u8
-#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Entertainment",MBC Bollywood
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
-#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
-#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
-#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
-#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Drama
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
-#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Drama
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/huebvDt.png" tvg-country="IQ" tvg-url="" ,MBC Iraq
-http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
-#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
-#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Masr 1
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8
-#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Masr 1
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/03.m3u8
-#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Masr 1
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
-#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Masr 1
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
-#EXTINF:-1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Masr 2
-http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
-#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8
-#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
-#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
-#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MBC Max HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="AE" tvg-url="" ,MBC VARIETY HD
-http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/yZC4C7e.png" tvg-country="AE" tvg-url="" ,MBC+ Drama
-http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ExGzvN5.png" tvg-country="INT" tvg-url="" ,MEA TV
-http://64.227.88.31/hls/yourstreamkey.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.medi1tv.ma/ar/img/footer/logo_new.png" tvg-country="MA" tvg-url="" ,Medi 1 TV Arabic
 https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/K0MQiNB.png" tvg-country="EG" tvg-url="" ,Mekameleen TV
@@ -640,49 +519,19 @@ https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8
 https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C5nT9yi.png" tvg-country="UK" tvg-url="" ,MTA 3
 https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
-#EXTINF:-1 tvg-id="MTV Lebanon ARB" tvg-name="MTV Lebanon ARB" tvg-language="Arabic" tvg-logo="https://www.ares-portal.com/wp-content/uploads/2017/09/plugin.video_.mtvlebanon-1320x743.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,MTV Lebanon
-http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PEFW4Vy.png" tvg-country="PS" tvg-url="" ,MusawaChannel
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ApjPInT.png" tvg-country="IQ" tvg-url="" ,Music Al Haneen
-http://95.170.215.109/hls/m3u8/M-alhanen-Backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B1ihFTL.png" tvg-country="IQ" tvg-url="" ,Music Al Remas
-http://95.170.215.109/hls/m3u8/M-Alremas-Backup.m3u8
-#EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KABKzdl.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/02.m3u8
-#EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KABKzdl.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
-#EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KABKzdl.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
-#EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KABKzdl.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" tvg-country="LB" tvg-url="" ,Nabaa TV
 http://31.14.40.237:1935/live/Nabaa/chunklist_w2118808920.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" tvg-country="LB" tvg-url="" ,Nabaa TV
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
-#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,National Geographic Abu Dhabi
-http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
+
 #EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
-#EXTINF:-1 tvg-id="NBN ARB" tvg-name="NBN ARB" tvg-language="Arabic" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,NBN
-http://livecdnh1.tvanywhere.ae/hls/nbn/04.m3u8
-#EXTINF:-1 tvg-id="NBN ARB" tvg-name="NBN ARB" tvg-language="Arabic" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,NBN
-http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
-#EXTINF:-1 tvg-id="NBN ARB" tvg-name="NBN ARB" tvg-language="Arabic" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,NBN
-http://livecdnh1.tvanywhere.ae/hls/nbn/index.m3u8
-#EXTINF:-1 tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" tvg-country="TN" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Nessma
-http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xhR4dy0.jpg" tvg-country="EG" tvg-url="" ,Nile Cinema
-http://livecdnh2.tvanywhere.ae/hls/nile_cin/index.m3u8
-#EXTINF:-1 tvg-id="Nile Drama ARB" tvg-name="Nile Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jiyPTfa.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Nile Drama
-http://livecdnh2.tvanywhere.ae/hls/nile_drama/02.m3u8
-#EXTINF:-1 tvg-id="Nile Drama ARB" tvg-name="Nile Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jiyPTfa.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Nile Drama
-http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Dy2Eo33.png" tvg-country="SY" tvg-url="" ,Noor Al-Sham
-http://82.137.248.16:1935/Nour/stream31122019/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Dy2Eo33.png" tvg-country="SY" tvg-url="" ,Noor Al-Sham
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
 #EXTINF:-1 tvg-id="Noor Dubai ARB" tvg-name="Noor Dubai ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FP2yHkl.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Noor Dubai
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8
 #EXTINF:-1 tvg-id="Noor Dubai ARB" tvg-name="Noor Dubai ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FP2yHkl.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Noor Dubai

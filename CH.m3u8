@@ -34,71 +34,71 @@ http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t6
 #EXTINF:-1  ,Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 
-#EXTINF:-1 Citruss TV Citruss TV 6lTEvrU.jpg" ,Citruss TV
+#EXTINF:-1  ,Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
-#EXTINF:-1 Citruss TV Citruss TV 6lTEvrU.jpg" ,Citruss TV
+#EXTINF:-1 ,Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
-#EXTINF:-1 Dubai One Dubai One WjJ8MHC.png" ,Dubai One
+#EXTINF:-1 ,Dubai One
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 
-#EXTINF:-1 Dubai TV Dubai TV dWueFIE.png" ,Dubai TV
+#EXTINF:-1 ,Dubai TV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1 Etisalat Dubai Zaman TV Etisalat Dubai Zaman TV F5U9qpf.png" ,Dubai Zaman
+#EXTINF:-1 ,Dubai Zaman
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 Etisalat Dubai Zaman TV Etisalat Dubai Zaman TV F5U9qpf.png" ,Dubai Zaman
+#EXTINF:-1  ,Dubai Zaman
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 
-#EXTINF:-1 Al Emarat TV Al Emarat TV 5S2ci8p.png" ,Emarat TV
+#EXTINF:-1 ,Emarat TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
 
-#EXTINF:-1 Majid Kids TV Majid Kids TV RiJULAe.png" ,Majid TV
+#EXTINF:-1 ,Majid TV
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
 
 
-#EXTINF:-1 National Geographic Abu Dhabi AR National Geographic Abu Dhabi AR baXbWro.jpg" ,National Geographic Abu Dhabi
+#EXTINF:-1  ,National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
-#EXTINF:-1 Noor Dubai Noor Dubai FP2yHkl.png" ,Noor Dubai
+#EXTINF:-1 ,Noor Dubai
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8
-#EXTINF:-1 Noor Dubai Noor Dubai FP2yHkl.png" ,Noor Dubai
+#EXTINF:-1  ,Noor Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
-#EXTINF:-1 ibUfEGr.png" ,Peace TV
+#EXTINF:-1  ,Peace TV
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 Sama Dubai Sama Dubai bF6I3N1.jpg" ,Sama Dubai
+#EXTINF:-1  ,Sama Dubai
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 Sama Dubai Sama Dubai bF6I3N1.jpg" ,Sama Dubai
+#EXTINF:-1  ,Sama Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
 
-#EXTINF:-1 Sharjah TV Sharjah TV FAp0RtO.png" ,Sharjah TV
+#EXTINF:-1  ,Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 Sharjah TV Sharjah TV FAp0RtO.png" ,Sharjah TV
+#EXTINF:-1  ,Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8
-#EXTINF:-1 Sharqiya from Kalba Sharqiya from Kalba 6Er1lh6.png" ,Sharqiya from Kalba TV
+#EXTINF:-1  ,Sharqiya from Kalba TV
 http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 
-#EXTINF:-1 nsxrqta.jpg" ,Toheed TV
+#EXTINF:-1  ,Toheed TV
 http://51.158.73.206/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" tvg-country="MA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,2M Monde
+#EXTINF:-1,2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 
-#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Abu Dhabi Drama
+#EXTINF:-1 ,Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 
 
 
 
-#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Abu Dhabi TV
+#EXTINF:-1  ,Abu Dhabi TV
 http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Abu Dhabi TV
+#EXTINF:-1  ,Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vn9jvdV.png" tvg-country="SD" tvg-url="" ,Africa TV1
+#EXTINF:-1 ,Africa TV1
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vn9jvdV.png" tvg-country="SD" tvg-url="" ,Africa TV2
+#EXTINF:-1 ,Africa TV2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vn9jvdV.png" tvg-country="SD" tvg-url="" ,Africa TV3
+#EXTINF:-1 ,Africa TV3
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lckbSZB.png" tvg-country="SA" tvg-url="" ,Ahl-Alquran TV
+#EXTINF:-1  ,Ahl-Alquran TV
 https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8
 
 
@@ -106,10 +106,10 @@ https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-country="PS" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" ,Ajyal TV
+#EXTINF:-1  ,Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/alaoulax2.png" tvg-country="MA" tvg-url="" ,Al Aoula
+#EXTINF:-1 ,Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/laayounex2.png" tvg-country="MA" tvg-url="" ,Al Aoula Laayoune
 http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
